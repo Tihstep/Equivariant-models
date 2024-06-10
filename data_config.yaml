@@ -1,0 +1,17 @@
+test_size : 0.2
+
+batch_size : 256
+
+x_dim  : 64*64
+hidden_dim_encoder : 400
+hidden_dim_decoder : (64, 64)
+latent_dim : 200
+
+lr : 5.4e-3
+
+epochs : 20
+
+run_amnt : 15
+
+path : '/content/drive/MyDrive/AIRI FEM/data/dataset_united_wind_cpu.pt'
+aug_path : '/content/drive/MyDrive/AIRI FEM/data/augment_data.pt'

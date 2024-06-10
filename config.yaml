@@ -1,0 +1,13 @@
+model : 'E2CNN'
+
+aug : 'Rotation'
+
+kernel : None,
+
+groups : None,
+
+layers : None,
+
+repr : None,
+
+polling : False
