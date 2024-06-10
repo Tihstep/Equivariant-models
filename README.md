@@ -45,6 +45,8 @@ Keeping the same training setup and *without performing hyperparameter tuning*, 
  ![Flip](https://github.com/Tihstep/Equivariant-models/blob/main/data/Flip.png)
  ![Shift](https://github.com/Tihstep/Equivariant-models/blob/main/data/Shift.png)
  ![Rotation](https://github.com/Tihstep/Equivariant-models/blob/main/data/Rotation.png)
+ <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Non_aug.png" width="100" height="100">
+
 
 ## Dependencies
 
