@@ -5,6 +5,7 @@ Equivariant Convolutional Neural Networks in Metamaterial Domain
 
 --------------------------------------------------------------------------------
 **The experiments conducted in this work demonstrate the importance of incorporating appropriate equivariance properties into the model architecture when dealing with data that exhibits specific symmetries.**
+
 By leveraging the a priori knowledge about the nature of the metamaterials dataset, we were able to design models that are equivariant to the relevant transformations, such as reflections and circular shifts. These equivariant models were shown to converge faster and achieve better performance compared to standard, non-equivariant models, especially when the training data was augmented with the corresponding transformations.
 
 
