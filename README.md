@@ -23,8 +23,8 @@ The library is structured into five subpackages with different high-level featur
 | Component                                                                              | Description                                                      |
 | ---------------------------------------------------------------------------------------| ---------------------------------------------------------------- |
 | [**Equivariant-models.KR**](https://github.com/Tihstep/Equivariant-models/blob/main/KR.ipynb)          | repository entry point, runs all experiments |
-| [** Equivariant-models.models**](https://github.com/Tihstep/Equivariant-models/tree/main/models)      | folder with all model architectures  |
-| [** Equivariant-models.data**](https://github.com/Tihstep/Equivariant-models/tree/main/data)      | folder with data and visualization |
+| [**Equivariant-models.models**](https://github.com/Tihstep/Equivariant-models/tree/main/models)      | folder with all model architectures  |
+| [**Equivariant-models.data**](https://github.com/Tihstep/Equivariant-models/tree/main/data)      | folder with data and visualization |
 | [**Equivariant-models.data_config.yaml**](https://github.com/Tihstep/Equivariant-models/blob/main/data_config.yaml)      |  data_configuration  |
 | [**Equivariant-models.model_config.yaml**](https://github.com/Tihstep/Equivariant-models/blob/main/model_config.yaml)                | models configuration |
 ---------------------------------------------------------------------------------------------------------------------------------------------------
