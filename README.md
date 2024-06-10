@@ -20,7 +20,7 @@ The feature spaces of E(2)-Equivariant Steerable CNNs are defined as spaces of *
 Typical examples are scalar fields (e.g. gray-scale images or temperature fields) or vector fields (e.g. optical flow or electromagnetic fields).
 
 ![feature field examples](https://github.com/Tihstep/Equivariant-models/blob/main/data/feature_fields.png)
-(image taken from Maurice Weiler e2cnn)
+(image taken from Maurice Weiler [e2cnn](https://github.com/QUVA-Lab/e2cnn))
 
 --------------------------------------------------------------------------------
 
