@@ -42,10 +42,10 @@ Keeping the same training setup and *without performing hyperparameter tuning*, 
  Shift Equivariant     | 0.0193 ± 0.008       |                   |                  | 0.01 ± 0.40      |
 
 
- <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Non_aug.png" width="800" height="350">
- <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Flip.png" width="800" height="350">
- <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Shift.png" width="800" height="350">
- <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Rotation.png" width="800" height="350">
+ <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Non_aug.png" width="700" height="350">
+ <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Flip.png" width="700" height="350">
+ <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Shift.png" width="700" height="350">
+ <img src="https://github.com/Tihstep/Equivariant-models/blob/main/data/Rotation.png" width="700" height="350">
 
 
 ## Dependencies
