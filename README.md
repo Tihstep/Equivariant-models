@@ -4,7 +4,8 @@ Equivariant Convolutional Neural Networks in Metamaterial Domain
 **[Article](https://arxiv.org/)** | **[Experiments](https://api.wandb.ai/links/tihstepml/54mw7gv0)**
 
 --------------------------------------------------------------------------------
-**Convolutional neural networks have become a standard approach for image processing tasks, with their key architectural property being the equivariance to translation provided by the local connectivity and weight sharing of convolutional layers. This equivariance allows the model to reduce the number of parameters and guide the learning process in an effective way. In this work, we investigate the benefits of incorporating equivariance to a wider range of transformations, beyond just translation, when dealing with structured data such as metamaterials. By leveraging the a priori knowledge about the symmetries present in the metamaterials dataset, we investigate G-steerable models, which are equivariant to the corresponding transformations, such as reflections and circular shifts.**
+**The experiments conducted in this work demonstrate the importance of incorporating appropriate equivariance properties into the model architecture when dealing with data that exhibits specific symmetries.**
+By leveraging the a priori knowledge about the nature of the metamaterials dataset, we were able to design models that are equivariant to the relevant transformations, such as reflections and circular shifts. These equivariant models were shown to converge faster and achieve better performance compared to standard, non-equivariant models, especially when the training data was augmented with the corresponding transformations.
 
 
 --------------------------------------------------------------------------------
